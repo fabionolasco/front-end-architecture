@@ -2,13 +2,15 @@
 
 ## What is Front-end Architecture?
 
-Front-end Architecture is a field concerned with the principles, guidelines, policies, models, standards, processes, and strategic thinking necessary for the planning, creation, and management of front-end projects. It aims to promote maintainability, code quality, faster time to market, openess for changes in UI/UX, reusability, and longer life of the applications. It starts with the basic concerns of System Design, such as algorithms, technologies' selection, data flow, design patterns, and architectual design, but it goes up, close to the Software Architecture level, by monitoring, coordinating and sychronizing the efforts across the organization.
+Front-end Architecture is a field concerned with the principles, guidelines, policies, models, standards, processes, and strategic thinking necessary for the planning, creation, and management of front-end projects. It aims to promote maintainability, code quality, faster time to market, openess for changes in UI/UX, reusability, and longer life for applications created with front-end technologies. It starts with the basic concerns of [System Design](http://sce.uhcl.edu/whiteta/sdp/architectureDesignAndDetailedDesign.html), such as algorithms, technologies' selection, data flow, design patterns, detailed design and architectual design, but it goes up to the [Software Architecture](https://en.wikipedia.org/wiki/Software_architecture) level, by monitoring, coordinating and sychronizing the efforts across the organization.
 
 ## Front-end Architecture in practice:
 
-Some of the basic tasks of front-end architects include:
+Some of the front-end architects' basic tasks include:
 
 - Create or assist in the creation of the [Software Design](https://en.wikipedia.org/wiki/Software_design) (blueprins) of new applications
+
+- Adapt the apps' blueprints to the directions it will most likely grow towards, based on non-formal predictions from business analysts and mangers, coming technologies, and market trends
 
 - Balance expectations of multiple stakeholders and find technical solutions that meet that balanced list of quality attributes (trade offs)
 
@@ -53,4 +55,4 @@ Please feel free to collaborate and send pull requests. Our goal is to make this
 
 ## Disclaimer and Terms of Use:
 
-All files shared here are MIT license, which means that they are free to use, modify and distribute, even for commercial use. They are provided "AS IS", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement, performance, accuracy, and operability. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, wheter in an action of contract, tort or otherwise, arising from, out of or in connection with the files offered in here. In other words, use those files at you own risk.
+All files shared here have an MIT license. That means that they are free to be used, modified, and distributed, even for commercial use. They are provided "AS IS", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement, performance, accuracy, and operability. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, wheter in an action of contract, tort or otherwise, arising from, out of or in connection with the files offered in here. In other words, use those files at you own risk.
