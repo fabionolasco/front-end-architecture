@@ -10,6 +10,12 @@ Please join us on making this repo better!
 
 This repo is a public place for sharing resources (link, images, documents, etc) related to Front-end Architectural.
 
+### Menu
+- [Books](Books.md)
+- [Tools](Tools.md)
+- [Videos](Videos.md)
+- [Websites](Websites.md)
+
 ---
 
 ## What is Front-end Architecture?
