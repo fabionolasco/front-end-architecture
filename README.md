@@ -1,8 +1,10 @@
 # Front-end Architecture
 
-## Repo open for collaboration
+## This repo is open for collaboration
 
-Please join us on making this repo better!
+Please share your resources here with the community.
+
+To do that, you may clone this repo and send back a pull request.
 
 ---
 
@@ -40,11 +42,17 @@ Check more about Front-end Architecture at this book at [Amazon](https://www.ama
  
 ## Examples of front-end architectural concerns:
 
-- Actively monitor the front-end panorama internally and externally yto the organization
+- Actively monitor the front-end panorama - both internally and externally to the organization
+
+- Conduct Proofs of Concept and research of new technologies
 
 - Align front-end efforts within the organization
 
 - Identify opportunities for reusability
+
+- Promote and capture innovation ideas among developers
+
+- Identify opportunities for embracing new technologies
 
 - Identify the directions of growth of applications
 
@@ -58,8 +66,6 @@ Check more about Front-end Architecture at this book at [Amazon](https://www.ama
 
 - Set standards and best practices for front-end development teams
 
-- Conduct Proofs of Concept and research of web technologies
-
 - Define realistic and sustainable protocols and processes for documentation and testing
 
 - Find efficient ways to communicate architectural decisions to multiple types of stakeholders
@@ -70,21 +76,29 @@ Check more about Front-end Architecture at this book at [Amazon](https://www.ama
 
 - Synchronize technologies, standards, and efforts across multiple teams in the organization
 
-- Provide training and coaching for developers
+- Provide training for developers on new technologies
 
 - Organize the workflow as to maximize productivity (shield developers from unwanted / unecessary meetings, recommend purchase of adequate tools, etc)
 
 - Work with managers to find ways to promote retention of developers (employee retention programs)
 
-- Help to facilitate and otimize deployment processes
+- Find ways to improve development experience
 
-- Help non-technical stakeholders to learn all of their technical options, including new technologies
+- Help to facilitate deployment processes
+
+- Help reduce pro-active over-engineering
+
+- Help apply efforts on more strategic points
+
+- Help non-technical stakeholders to learn all of their technical options, including new technologies and their pros and cons
 
 - Help identify and translate business needs and expectations into technical directives, making sure that the technical aspects will continuously support and favor them
 
-- Scaffold new complex applications, setting developers in the right direction
+- Scaffold new complex applications (system design), setting developers in the right direction
 
-- Coordinate think tanks and brain trusts
+- Coordinate think tanks and brain trusts on front-end matters
+
+- Help bring balance to battles between UX vs. Developers, so that UX teams are neither always pushed back nor always imposing 
 
 ---
 
